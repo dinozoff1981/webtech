@@ -61,3 +61,24 @@ body{
 
     background-color: green;
 }
+
+@media screen and (max-width: 768px){
+    .wrapper h3{
+
+        
+        font-size: 16px;
+        
+    }
+    .wrapper p{
+
+     
+        font-size: 12px;
+    }
+
+   
+.pre,.next{
+
+  width: 50px;
+  font-size: 8px;
+}
+}
